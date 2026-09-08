@@ -41,8 +41,8 @@ Multiple classification models were evaluated to identify employees at high risk
 
 The final predictive analysis achieved approximately:
 
-- **Model Accuracy:** 94.02%
-- **High-Risk Recall:** 95.95%
+- **Model Accuracy:** 93.80%
+- **High-Risk Recall:** 97.49%
 
 The high recall is particularly important because it reduces the likelihood of failing to identify employees who are genuinely at high risk of burnout.
 
@@ -93,3 +93,11 @@ employee-burnout-analysis/
 ├── charts/     # Python-generated analytical visualizations
 ├── powerbi/    # Power BI dashboard, PBIX file, and screenshots
 └── README.md   # Project documentation
+
+## 🎯 Conclusion
+
+This project demonstrates an end-to-end employee burnout analytics solution combining SQL, Python, machine learning, and Power BI.
+
+The analysis identified mental fatigue, resource allocation/workload, and designation as important factors associated with burnout risk. The predictive modeling component provides an early-warning mechanism for identifying employees who may require proactive intervention.
+
+By combining descriptive analytics, predictive modeling, and interactive business intelligence, this project demonstrates how data can support evidence-based workforce well-being and resource-management decisions.
