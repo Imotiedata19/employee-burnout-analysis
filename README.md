@@ -60,7 +60,7 @@ The Power BI solution contains three analytical pages:
 
 ### 3. Burnout Risk Prediction
 
-![Burnout Prediction Dashboard](powerbi/prediction.png)
+<img src="powerbi/prediction.png" alt="Burnout Prediction Dashboard">
 
 ## 📈 Key Business Findings
 
